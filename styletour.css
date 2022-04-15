@@ -1,0 +1,103 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+
+
+
+#navul a{
+    color: white;
+}
+#navul img{
+    background: white;
+}
+.msform{
+    width: 1160px;
+    background:rgba(255,255,255,.7);
+    height: 300px;
+    border: 10px solid none;
+    border-radius: 15px;
+    margin-left: 85px;
+    display: block;
+    overflow:hidden;
+    
+    
+}
+.msform li{
+    
+    font-weight: bold;
+    color: white;
+}
+.progress{
+    margin-top: 15px;
+    margin-left: 100px;
+    width: 800px;
+    height: 4px;
+}
+.formtext{
+    margin-top: 15px;
+    margin-bottom: 15px;
+   
+}
+    
+.grid-container{
+    display:grid;
+    grid-template-columns: auto auto auto  ;
+    font-weight: bold;
+    color: black;
+    width: 800px;
+    margin-left: 100px;
+
+}
+.grid-item{
+    text-align: left;
+}
+
+
+.divbutton{
+    width: 800px;
+  
+}
+.divbutton button{
+    margin-top: 60px;
+    background:blue;
+  align-items: right;
+  float: right;
+   width: 160px;
+   height: 40px;
+   border: 2px solid blue;
+   border-radius: 15px;
+}
+
+.container{
+    margin-left: 90px;
+    margin-top: 115px;
+  
+}
+.row > div{
+    background: #000;
+    border-radius: 15px;
+    border:1px solid black;
+}
+.row a{
+    color: white;
+    
+}
+.row img{
+    background: white;
+}
+.boxtext{
+    width: 300px;
+    float: left;
+    margin-top: 40px;
+    background: white;
+    margin-left: 70px;
+    
+    
+}
